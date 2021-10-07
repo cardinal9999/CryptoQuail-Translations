@@ -1,5 +1,5 @@
 # CryptoQuail-Translations
-CryptoQuail in different programming languages.
+[CryptoQuail](https://github.com/cardinal9999/CryptoQuail) in different programming languages.
 
 ```diff
 @@ Why use CryptoQuail for your programs? @@
