@@ -10,3 +10,8 @@ CryptoQuail in different programming languages.
 
 - Warning: If you encrypt a message with one programming language, you cannot decrypt it with another translation of CryptoQuail.
 ```
+
+## How to install CryptoQuail
+
+## JavaScript
+Clone this repo using your git CMD and open the folder in the repo that says "javascript". Now, use the functions in the scripts for your code.
