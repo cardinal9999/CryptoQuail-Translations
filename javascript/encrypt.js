@@ -21,8 +21,8 @@ function fromCharCode(input){
 function encode(string) {
     var number = "0x";
     var length = string.length;
-    for (var i = 0; i < length; i++)
-        number += charCodeAt(string[i]).toString(16);
+    for (var i = 0; i < length; i++){
+        number += charCodeAt(string[i]).toString(16);}
     return number;
 }
 function crypt(input, key) {
