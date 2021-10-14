@@ -16,3 +16,5 @@ Note: Most of them are unfinished.
 
 ## JavaScript
 Clone this repo using your git CMD and open the folder in the repo that says "javascript". Now, use the functions in the scripts for your code.
+
+In CryptoQuail.js, there are comments in the encrypt file so you can understand what everything does.
