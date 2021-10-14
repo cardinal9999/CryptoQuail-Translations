@@ -5,7 +5,7 @@ CryptoQuail is created with Python, but now, it can work with JavaScript!
 Installation
 -----------------
 
-1. Go to https://github.com/cardinal9999/CryptoQuail/tree/main/javascript
+1. Go to https://github.com/cardinal9999/CryptoQuail-Translations/tree/main/javascript
 2. Download the files with git cmd
 3. Put the files in your programming directory
 4. If you like, paste some of the code in your program.
