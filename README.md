@@ -1,4 +1,6 @@
 # CryptoQuail-Translations
+![GitHub language count](https://img.shields.io/github/languages/count/cardinal9999/CryptoQuail-translations)
+
 [CryptoQuail](https://github.com/cardinal9999/CryptoQuail) in different programming languages.
 
 Note: Most of them are unfinished.
