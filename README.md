@@ -3,7 +3,7 @@
 
 [CryptoQuail](https://github.com/cardinal9999/CryptoQuail) in different programming languages.
 
-Note: Most of them are unfinished.
+Note: Some of them are unfinished.
 ```diff
 @@ Why use CryptoQuail for your programs? @@
 
