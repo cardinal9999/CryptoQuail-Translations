@@ -10,10 +10,13 @@ Note: Some of them are unfinished.
 + CryptoQuail encryption generates short ciphertexts, while some block ciphers generate ciphertexts way longer than the plaintext.
 + CryptoQuail has most of the cryptography utils you need.
 + You don't have to type lots of code to run a function in one of the modules.
++ CryptoQuail uses a transposition cipher for more security.
 + CryptoQuail ciphertexts are completely different when only one character of the key is changed. This is called the avalanche effect.
 
 - Warning: If you encrypt a message with one programming language, you cannot decrypt it with another translation of CryptoQuail.
 ```
+
+Note: Transposition cipher not available in some translations
 
 ## How to install CryptoQuail
 
