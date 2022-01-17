@@ -1,5 +1,5 @@
 function charCodeAt(input){ // Function to convert a character to a number
-  var keys = " 1234567890abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!#%&()*^$@`~-_=][+{\ }|</>,.;:'\"" ; // Set character data
+  var keys = " 1234567890abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!#%&()*^$@`~-_=][+{\ }|</>,.;:'\"\n" ; // Set character data
   var values = [];
   for (var k = 0; k < keys.length; k++){ // Generate numbers data
     values.push(k);
@@ -9,7 +9,7 @@ function charCodeAt(input){ // Function to convert a character to a number
   }
 }
 function fromCharCode(input){ // Convert a number to a character
-  var keys = " 1234567890abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!#%&()*^$@`~-_=][+{\ }|</>,.;:'\"" ;
+  var keys = " 1234567890abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!#%&()*^$@`~-_=][+{\ }|</>,.;:'\"\n" ;
   var values = [];
   for (var k = 0; k < keys.length; k++){
     values.push(k);
