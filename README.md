@@ -1,4 +1,7 @@
 # CryptoQuail-Translations
+
+## NOTE: NOT MAINTAINED ANYMORE
+
 ![GitHub language count](https://img.shields.io/github/languages/count/cardinal9999/CryptoQuail-translations)
 
 [CryptoQuail](https://github.com/cardinal9999/CryptoQuail) in different programming languages. (CryptoQuail is a stream cipher for code obfuscation)
