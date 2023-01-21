@@ -1,6 +1,6 @@
 # CryptoQuail-Translations
 
-## NOTE: NOT MAINTAINED ANYMORE
+## NOTE: NOT MAINTAINED ANYMORE. THIS IS ONLY FOR OBFUSCATION!!!
 
 ![GitHub language count](https://img.shields.io/github/languages/count/cardinal9999/CryptoQuail-translations)
 
